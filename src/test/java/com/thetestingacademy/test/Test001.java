@@ -1,4 +1,4 @@
-package com.thetestingacademy.tests;
+package com.thetestingacademy.test;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
